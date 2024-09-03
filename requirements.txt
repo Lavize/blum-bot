@@ -1,6 +1,7 @@
-keyboard
-pynput
-pyautogui
-pygetwindow
-termcolor
-colorama
+PyQt5==5.15.4
+pygetwindow==0.0.9
+pyautogui==0.9.53
+keyboard==0.13.5
+pynput==1.7.6
+opencv-python==4.5.5.64
+numpy==1.21.4
