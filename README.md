@@ -79,10 +79,8 @@ For any questions or support, please open an issue or contact the repository own
 1. [Features](#features)
 2. [Requirements](#requirements)
 3. [Installation](#installation)
-4. [Download](#Download)
-5. [Usage](#usage)
-6. [Contributing](#contributing)
-7. [License](#license)
-8. [Contact](#contact)
+4. [Usage](#usage)
+5. [License](#license)
+6. [Contact](#contact)
 
 </details>
