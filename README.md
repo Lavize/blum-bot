@@ -38,7 +38,7 @@ Make sure you have Python 3.11.6 installed on your system. You can download it f
 
     Install the necessary Python modules using `pip`:
       ```sh
-    pip install -r requirements.txt
+     pip install PyQt5 pygetwindow pyautogui keyboard pynput opencv-python numpy termcolor colorama
     ```
 
 3. **Run the script**
