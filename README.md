@@ -1,5 +1,4 @@
-# Blum Bot Ui Friendly
-
+# Blum Automation Clicker
 Blum Automation Clicker is a simple bot application designed to automate interactions with the Blum app within Telegram Desktop. The application allows users to start and stop the automation process using keyboard shortcuts and can perform various actions like detecting and clicking on specific text or colors within the Telegram window.
 
 ## Features
