@@ -1,21 +1,22 @@
-# Blum Bot
+# Blum Bot Ui Friendly
 
-Automate the Blum Crypto game on your Telegram bot with Blum Bot! This Python tool allows the game to run autonomously, utilizing the pynput and keyboard modules. Designed for Python 3.11.6, it's easy to set up and get started.
+Blum Automation Clicker is a simple bot application designed to automate interactions with the Blum app within Telegram Desktop. The application allows users to start and stop the automation process using keyboard shortcuts and can perform various actions like detecting and clicking on specific text or colors within the Telegram window.
 
 ## Features
 
 - Automates the Blum Crypto game on Telegram.
 - Uses the `termcolor`,`pynput`, `pyautogui`, `pygetwindow` and `keyboard` modules for interaction.
+- Better GUI
 - Designed for Python 3.11.6.
 
 ## Requirements
 
 - Python 3.11.6 (recommended)
-- `termcolor` module 
-- `pyautogui` module
-- `pygetwindow` module
-- `pynput` module
-- `keyboard` module
+- PyQt5
+- OpenCV
+- pygetwindow
+- pyautogui
+- pynput
 
 ## Installation
 
@@ -36,13 +37,8 @@ Make sure you have Python 3.11.6 installed on your system. You can download it f
 
     Install the necessary Python modules using `pip`:
 
-    ```sh
-    pip install termcolor
-    pip install colorama
-    pip install pynput
-    pip install keyboard
-    pip install pyautogui
-    pip install pygetwindow
+  ```sh
+    pip install -r requirements.txt
     ```
 
 3. **Run the script**
@@ -52,60 +48,13 @@ Make sure you have Python 3.11.6 installed on your system. You can download it f
     ```sh
     python blumbot.py
     ```
-## Download
-
-If you prefer a standalone executable version of Blum Bot that does not require installing Python or any dependencies, you can download `blumbot.exe` from the below:
-
-<a href="https://t.me/bravexploiter/10441">
-    <img src="https://raw.githubusercontent.com/DarkSkull777/blum-bot/main/images/images%20(4)-fotor-bg-remover-202406222099-picsay.png" alt="Download" width="165">
-</a>
-
-
 ## Usage
 
-Once the script is running, it will automate the Blum Crypto game on your Telegram bot. Ensure your Telegram bot is properly set up and configured to work with the Blum Crypto game.
-
-## Contributing
-
-Contributions are welcome! Here's how you can contribute:
-
-1. **Fork the repository**
-
-    Click on the "Fork" button at the top right of this page to create a copy of this repository on your GitHub account.
-
-2. **Clone your forked repository**
-
-    ```sh
-    git clone https://github.com/DarkSkull777/blum-bot.git
-    cd blum-bot
-    ```
-
-3. **Create a new branch for your changes**
-
-    ```sh
-    git checkout -b my-new-feature
-    ```
-
-4. **Make your changes**
-
-    Modify the code and add your new features or improvements.
-
-5. **Commit your changes**
-
-    ```sh
-    git add .
-    git commit -m "Note"
-    ```
-
-6. **Push to your branch**
-
-    ```sh
-    git push origin your-new-feature
-    ```
-
-7. **Create a Pull Request**
-
-    Open a pull request from your forked repository to the original repository.
+1. Open Telegram Desktop and ensure it is visible on your screen.
+2. Launch the Blum Automation Clicker application.
+3. Choose your preferred language.
+4. Click "Start Automation" to begin the bot.
+5. Press 'K' on your keyboard to pause or resume the bot.
 
 ### Suggestions and Stars
 
@@ -117,7 +66,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or support, please open an issue or contact the repository owner on [<span style="font-size:1.5em;">Telegram</span>](https://t.me/XSkull7).
+For any questions or support, please open an issue or contact the repository owner on [<span style="font-size:1.5em;">Twitter</span>](https://x.com/Lavize0x).
 
 ---
 
