@@ -29,21 +29,19 @@ Make sure you have Python 3.11.6 installed on your system. You can download it f
 
     ```sh
     git clone https://github.com/DarkSkull777/blum-bot.git
-    cd blum-bot
+    cd blum-bot](https://github.com/Lavize/blum-bot.git
     ```
 
 2. **Install the required modules**
 
     Install the necessary Python modules using `pip`:
-
-  ```sh
+      ```sh
     pip install -r requirements.txt
     ```
 
 3. **Run the script**
 
     Execute the `blumbot.py` script:
-
     ```sh
     python blumbot.py
     ```
